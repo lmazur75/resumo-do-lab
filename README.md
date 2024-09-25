@@ -1,2 +1,8 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
+## Topicos vistos:
+
+- Custos relacionados a recursos na nuvem.
+- Simulação de migração para a nuvem.
+- Simulação de custo de uma máquina com alterações no tipo de reserva, licença, etc.
