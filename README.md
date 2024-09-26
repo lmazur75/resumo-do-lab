@@ -17,3 +17,8 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - CLI/Powershell.
 - Azure Portal.
 - Azure ARC.
+
+## Topicos vistos em ferramentas de monitoração:
+
+- Service Health.
+- Azure Monitor.
