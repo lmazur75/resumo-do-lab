@@ -11,3 +11,9 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 - Governança e conformidade.
 - Políticas.
+
+## Topicos vistos em ferramentas de implementação:
+
+- CLI/Powershell.
+- Azure Portal.
+- Azure ARC.
